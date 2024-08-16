@@ -1,5 +1,5 @@
 # Schrödinger's Time-Independent Equation Solver
-
+documentation : https://carnation-jackfruit-cd3.notion.site/Solving-Schr-dinger-s-Time-Independent-Equation-Using-Quantum-Computing-91bb20d4666841be88c867c9278b8fdd
 This repository contains a Python implementation to solve Schrödinger's time-independent equation using both classical and quantum computing methods. The classical approach uses the finite difference method to construct the Hamiltonian matrix, while the quantum approach utilizes Qiskit for solving eigenvalue problems.
 
 ## Table of Contents
@@ -123,6 +123,3 @@ pip install numpy scipy matplotlib qiskit qiskit_algorithms
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust the URL and other specific details according to your repository.
