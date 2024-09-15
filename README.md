@@ -25,7 +25,7 @@ Schrödinger's time-independent equation is a fundamental equation in quantum me
 
 ### Schrödinger's Time-Independent Equation
 
-The time-independent Schrödinger equation describes the quantum state of a physical system where the Hamiltonian operator \(H\) and the energy eigenvalue \(E\) are used to find the wave function \(\psi(x)\).
+The time-independent Schrödinger equation describes the quantum state of a physical system where the Hamiltonian operator \(H\) and the energy eigenvalue \(E\) are used to find the wave function \(psi(x)\).
 
 ### Finite Difference Method
 
